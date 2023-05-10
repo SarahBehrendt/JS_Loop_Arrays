@@ -1,0 +1,25 @@
+body{
+    width: 100vw;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+p{
+    text-align: center;
+    color: rgb(221, 38, 127);
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+.result{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: purple;
+}
